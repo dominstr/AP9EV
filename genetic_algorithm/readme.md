@@ -2,7 +2,7 @@
 Pro oba algoritmy byl použit rank selection pro výběr rodičů.
 
 ## One-Max problem
-U One-Max nastavované parametry neměli příliš velký vliv a algoritmus dosahoval téměř vždy optimálního řešení a to i v D=100.
+U One-Max nastavované parametry neměly příliš velký vliv a algoritmus dosahoval téměř vždy optimálního řešení a to i v D=100.
 ![onemax.png](onemax.png)
 
 ## Leading Ones problem
